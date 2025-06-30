@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - DESPLIEGUE AUTOMATICO 29 junio" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - DESPLIEGUE AUTOMATICO 29 junio git hub actions" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
